@@ -28,3 +28,38 @@ warning: adding embedded git repository: ProgrammingAssignment2
 ]0;~/Dropbox/Cousera/Course2/Week3/Assignment2SSY-MacBook-Pro:Assignment2 sitisalwaniyaacob$ git init
 Reinitialized existing Git repository in /Users/sitisalwaniyaacob/Dropbox/Cousera/Course2/Week3/Assignment2/.git/
 ]0;~/Dropbox/Cousera/Course2/Week3/Assignment2SSY-MacBook-Pro:Assignment2 sitisalwaniyaacob$ git add .
+]0;~/Dropbox/Cousera/Course2/Week3/Assignment2SSY-MacBook-Pro:Assignment2 sitisalwaniyaacob$ git commit -m "Initial commit"
+[master (root-commit) 63af6eb] Initial commit
+ 20 files changed, 438 insertions(+)
+ create mode 100644 .RData
+ create mode 100644 .Rhistory
+ create mode 100644 .Rproj.user/2FB61ED1/console06/E80FD6C7
+ create mode 100644 .Rproj.user/2FB61ED1/console06/E80FD6C7.env
+ create mode 100644 .Rproj.user/2FB61ED1/console06/INDEX001
+ create mode 100644 .Rproj.user/2FB61ED1/pcs/debug-breakpoints.pper
+ create mode 100644 .Rproj.user/2FB61ED1/pcs/files-pane.pper
+ create mode 100644 .Rproj.user/2FB61ED1/pcs/source-pane.pper
+ create mode 100644 .Rproj.user/2FB61ED1/pcs/windowlayoutstate.pper
+ create mode 100644 .Rproj.user/2FB61ED1/pcs/workbench-pane.pper
+ create mode 100644 .Rproj.user/2FB61ED1/rmd-outputs
+ create mode 100644 .Rproj.user/2FB61ED1/saved_source_markers
+ create mode 100644 .Rproj.user/2FB61ED1/sources/prop/76C54496
+ create mode 100644 .Rproj.user/2FB61ED1/sources/prop/INDEX
+ create mode 100644 .Rproj.user/2FB61ED1/sources/s-7964BB9A/B886EAD6
+ create mode 100644 .Rproj.user/2FB61ED1/sources/s-7964BB9A/B886EAD6-contents
+ create mode 100644 .Rproj.user/2FB61ED1/sources/s-7964BB9A/lock_file
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 Assignment2.Rproj
+ create mode 160000 ProgrammingAssignment2
+]0;~/Dropbox/Cousera/Course2/Week3/Assignment2SSY-MacBook-Pro:Assignment2 sitisalwaniyaacob$ git remote add origin https://github.com/sitisalwani/RProgramming_Assignmen t2.git
+]0;~/Dropbox/Cousera/Course2/Week3/Assignment2SSY-MacBook-Pro:Assignment2 sitisalwaniyaacob$ git push -u origin master
+[KEnumerating objects: 29, done.
+[KCounting objects:   3% (1/29)[KCounting objects:   6% (2/29)[KCounting objects:  10% (3/29)[KCounting objects:  13% (4/29)[KCounting objects:  17% (5/29)[KCounting objects:  20% (6/29)[KCounting objects:  24% (7/29)[KCounting objects:  27% (8/29)[KCounting objects:  31% (9/29)[KCounting objects:  34% (10/29)[KCounting objects:  37% (11/29)[KCounting objects:  41% (12/29)[KCounting objects:  44% (13/29)[KCounting objects:  48% (14/29)[KCounting objects:  51% (15/29)[KCounting objects:  55% (16/29)[KCounting objects:  58% (17/29)[KCounting objects:  62% (18/29)[KCounting objects:  65% (19/29)[KCounting objects:  68% (20/29)[KCounting objects:  72% (21/29)[KCounting objects:  75% (22/29)[KCounting objects:  79% (23/29)[KCounting objects:  82% (24/29)[KCounting objects:  86% (25/29)[KCounting objects:  89% (26/29)[KCounting objects:  93% (27/29)[KCounting objects:  96% (28/29)[KCounting objects: 100% (29/29)[KCounting objects: 100% (29/29), done.
+Delta compression using up to 4 threads
+[KCompressing objects:   4% (1/23)[KCompressing objects:   8% (2/23)[KCompressing objects:  13% (3/23)[KCompressing objects:  17% (4/23)[KCompressing objects:  21% (5/23)[KCompressing objects:  26% (6/23)[KCompressing objects:  30% (7/23)[KCompressing objects:  34% (8/23)[KCompressing objects:  39% (9/23)[KCompressing objects:  43% (10/23)[KCompressing objects:  47% (11/23)[KCompressing objects:  52% (12/23)[KCompressing objects:  56% (13/23)[KCompressing objects:  60% (14/23)[KCompressing objects:  65% (15/23)[KCompressing objects:  69% (16/23)[KCompressing objects:  73% (17/23)[KCompressing objects:  78% (18/23)[KCompressing objects:  82% (19/23)[KCompressing objects:  86% (20/23)[KCompressing objects:  91% (21/23)[KCompressing objects:  95% (22/23)[KCompressing objects: 100% (23/23)[KCompressing objects: 100% (23/23), done.
+[KWriting objects:   3% (1/29)[KWriting objects:   6% (2/29)[KWriting objects:  10% (3/29)[KWriting objects:  13% (4/29)[KWriting objects:  17% (5/29)[KWriting objects:  20% (6/29)[KWriting objects:  24% (7/29)[KWriting objects:  27% (8/29)[KWriting objects:  31% (9/29)[KWriting objects:  34% (10/29)[KWriting objects:  37% (11/29)[KWriting objects:  41% (12/29)[KWriting objects:  44% (13/29)[KWriting objects:  48% (14/29)[KWriting objects:  51% (15/29)[KWriting objects:  55% (16/29)[KWriting objects:  58% (17/29)[KWriting objects:  62% (18/29)[KWriting objects:  65% (19/29)[KWriting objects:  68% (20/29)[KWriting objects:  72% (21/29)[KWriting objects:  75% (22/29)[KWriting objects:  79% (23/29)[KWriting objects:  82% (24/29)[KWriting objects:  86% (25/29)[KWriting objects:  89% (26/29)[KWriting objects:  93% (27/29)[KWriting objects:  96% (28/29)[KWriting objects: 100% (29/29)[KWriting objects: 100% (29/29), 11.82 KiB | 224.00 KiB/s, done.
+Total 29 (delta 0), reused 0 (delta 0)
+To https://github.com/sitisalwani/RProgramming_Assignment2.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+]0;~/Dropbox/Cousera/Course2/Week3/Assignment2SSY-MacBook-Pro:Assignment2 sitisalwaniyaacob$ 
