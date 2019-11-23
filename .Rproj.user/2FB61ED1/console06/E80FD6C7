@@ -1,0 +1,30 @@
+]0;~/Dropbox/Cousera/Course2/Week3/Assignment2[?1034hSSY-MacBook-Pro:Assignment2 sitisalwaniyaacob$ [KSSY-MacBook-Pro:Assignment2 sitisalwaniyaacob$ git clone https://github.com/sitisalwani/Prog rammingAssignment2.git
+Cloning into 'ProgrammingAssignment2'...
+remote: Enumerating objects: 22, done.[K
+remote: Total 22 (delta 0), reused 0 (delta 0), pack-reused 22
+[KUnpacking objects:   4% (1/22)[KUnpacking objects:   9% (2/22)[KUnpacking objects:  13% (3/22)[KUnpacking objects:  18% (4/22)[KUnpacking objects:  22% (5/22)[KUnpacking objects:  27% (6/22)[KUnpacking objects:  31% (7/22)[KUnpacking objects:  36% (8/22)[KUnpacking objects:  40% (9/22)[KUnpacking objects:  45% (10/22)[KUnpacking objects:  50% (11/22)[KUnpacking objects:  54% (12/22)[KUnpacking objects:  59% (13/22)[KUnpacking objects:  63% (14/22)[KUnpacking objects:  68% (15/22)[KUnpacking objects:  72% (16/22)[KUnpacking objects:  77% (17/22)[KUnpacking objects:  81% (18/22)[KUnpacking objects:  86% (19/22)[KUnpacking objects:  90% (20/22)[KUnpacking objects:  95% (21/22)[KUnpacking objects: 100% (22/22)[KUnpacking objects: 100% (22/22), done.
+[KSSY-MacBook-Pro:Assignment2 sitisalwaniyaacob$ git init
+Initialized empty Git repository in /Users/sitisalwaniyaacob/Dropbox/Cousera/Course2/Week3/Assignment2/.git/
+]0;~/Dropbox/Cousera/Course2/Week3/Assignment2SSY-MacBook-Pro:Assignment2 sitisalwaniyaacob$ git add.
+git: 'add.' is not a git command. See 'git --help'.
+
+The most similar command is
+	add
+]0;~/Dropbox/Cousera/Course2/Week3/Assignment2SSY-MacBook-Pro:Assignment2 sitisalwaniyaacob$ git add.[K .
+warning: adding embedded git repository: ProgrammingAssignment2
+[33mhint: You've added another git repository inside your current repository.[m
+[33mhint: Clones of the outer repository will not contain the contents of[m
+[33mhint: the embedded repository and will not know how to obtain it.[m
+[33mhint: If you meant to add a submodule, use:[m
+[33mhint: [m
+[33mhint: 	git submodule add <url> ProgrammingAssignment2[m
+[33mhint: [m
+[33mhint: If you added this path by mistake, you can remove it from the[m
+[33mhint: index with:[m
+[33mhint: [m
+[33mhint: 	git rm --cached ProgrammingAssignment2[m
+[33mhint: [m
+[33mhint: See "git help submodule" for more information.[m
+]0;~/Dropbox/Cousera/Course2/Week3/Assignment2SSY-MacBook-Pro:Assignment2 sitisalwaniyaacob$ git init
+Reinitialized existing Git repository in /Users/sitisalwaniyaacob/Dropbox/Cousera/Course2/Week3/Assignment2/.git/
+]0;~/Dropbox/Cousera/Course2/Week3/Assignment2SSY-MacBook-Pro:Assignment2 sitisalwaniyaacob$ git add .
